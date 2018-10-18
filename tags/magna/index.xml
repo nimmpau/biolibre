@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biolibre</title>
-    <link>https://nimmpau.github.io/</link>
-    <description>Recent content on Biolibre</description>
+    <title>Magna on Biolibre</title>
+    <link>https://nimmpau.github.io/tags/magna/</link>
+    <description>Recent content in Magna on Biolibre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 15 Mar 2018 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://nimmpau.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nimmpau.github.io/tags/magna/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,15 +27,6 @@
       
       <guid>https://nimmpau.github.io/posts/another_post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec hendrerit tempor tellus. Donec pretium posuere tellus. Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla posuere. Donec vitae dolor. Nullam tristique diam non turpis. Cras placerat accumsan nulla. Nullam rutrum. Nam vestibulum accumsan nisl. </description>
-    </item>
-    
-    <item>
-      <title>Yeats antother post</title>
-      <link>https://nimmpau.github.io/posts/yeats/</link>
-      <pubDate>Tue, 12 Sep 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://nimmpau.github.io/posts/yeats/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec hendrerit tempor tellus. Donec pretium posuere tellus. Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla posuere. Donec vitae dolor. Nullam tristique diam non turpis. Cras placerat accumsan nulla. Nullam rutrum. Nam vestibulum accumsan nisl.</description>
     </item>
     
   </channel>
