@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://nimmpau.github.io/posts/some_older_news/</loc>
+    <lastmod>2016-11-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nimmpau.github.io/</loc>
     <lastmod>2018-03-15T00:00:00-05:00</lastmod>
   </url>
@@ -62,10 +67,6 @@
     <loc>https://nimmpau.github.io/tags/proin/</loc>
     <lastmod>2017-11-27T00:00:00-06:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nimmpau.github.io/posts/some_older_news/</loc>
   </url>
   
   <url>
