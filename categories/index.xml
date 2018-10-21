@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Biolibre</title>
+    <link>https://nimmpau.github.io/categories/</link>
+    <description>Recent content in Categories on Biolibre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://nimmpau.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Best Posts</title>
+      <link>https://nimmpau.github.io/categories/best-posts/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://nimmpau.github.io/categories/best-posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Okposts</title>
+      <link>https://nimmpau.github.io/categories/okposts/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://nimmpau.github.io/categories/okposts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
