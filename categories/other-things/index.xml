@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biolibre</title>
-    <link>https://nimmpau.github.io/</link>
-    <description>Recent content on Biolibre</description>
+    <title>Other Things on Biolibre</title>
+    <link>https://nimmpau.github.io/categories/other-things/</link>
+    <description>Recent content in Other Things on Biolibre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Nov 2018 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 15 Nov 2018 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://nimmpau.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nimmpau.github.io/categories/other-things/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>How to use the internet</title>
-      <link>https://nimmpau.github.io/posts/emacs_and_hugo_setup/</link>
-      <pubDate>Sun, 18 Nov 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://nimmpau.github.io/posts/emacs_and_hugo_setup/</guid>
-      <description>lets talk bout somthin. like, Etiam lobortis velit sit amet turpis mollis pharetra. Proin nunc augue, accumsan pretium sapien vel, elementum eleifend metus. Proin consectetur neque a euismod commodo. Nunc bibendum vel felis vitae hendrerit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus quis iaculis metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor eleifend urna ac sagittis. Phasellus velit nunc, laoreet in augue id, tristique posuere purus.</description>
-    </item>
     
     <item>
       <title>News of the world</title>

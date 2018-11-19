@@ -3,87 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nimmpau.github.io/posts/latest_post/</loc>
-    <lastmod>2018-03-15T00:00:00-05:00</lastmod>
+    <loc>https://nimmpau.github.io/posts/emacs_and_hugo_setup/</loc>
+    <lastmod>2018-11-18T00:00:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nimmpau.github.io/posts/another_post/</loc>
-    <lastmod>2017-11-27T00:00:00-06:00</lastmod>
+    <loc>https://nimmpau.github.io/posts/some_news/</loc>
+    <lastmod>2018-11-15T00:00:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nimmpau.github.io/posts/yeats/</loc>
-    <lastmod>2017-09-12T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nimmpau.github.io/posts/some_older_news/</loc>
-    <lastmod>2016-11-05T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nimmpau.github.io/categories/best-posts/</loc>
-    <lastmod>2018-03-15T00:00:00-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://nimmpau.github.io/posts/some_hobbies/</loc>
+    <lastmod>2018-10-18T00:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://nimmpau.github.io/</loc>
-    <lastmod>2018-03-15T00:00:00-05:00</lastmod>
+    <lastmod>2018-11-18T00:00:00-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nimmpau.github.io/categories/</loc>
-    <lastmod>2018-03-15T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nimmpau.github.io/tags/convallis/</loc>
-    <lastmod>2017-09-12T00:00:00-05:00</lastmod>
+    <loc>https://nimmpau.github.io/tags/emacs/</loc>
+    <lastmod>2018-11-18T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nimmpau.github.io/tags/donec/</loc>
-    <lastmod>2017-11-27T00:00:00-06:00</lastmod>
+    <loc>https://nimmpau.github.io/tags/hugo/</loc>
+    <lastmod>2018-11-18T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nimmpau.github.io/tags/magna/</loc>
-    <lastmod>2018-03-15T00:00:00-05:00</lastmod>
+    <loc>https://nimmpau.github.io/categories/mainthings/</loc>
+    <lastmod>2018-11-18T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nimmpau.github.io/tags/nascetur/</loc>
-    <lastmod>2017-09-12T00:00:00-05:00</lastmod>
+    <loc>https://nimmpau.github.io/tags/news/</loc>
+    <lastmod>2018-11-15T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nimmpau.github.io/tags/neque/</loc>
-    <lastmod>2018-03-15T00:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nimmpau.github.io/categories/okposts/</loc>
-    <lastmod>2017-11-27T00:00:00-06:00</lastmod>
+    <loc>https://nimmpau.github.io/categories/other-things/</loc>
+    <lastmod>2018-11-15T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nimmpau.github.io/posts/</loc>
-    <lastmod>2018-03-15T00:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nimmpau.github.io/tags/proin/</loc>
-    <lastmod>2017-11-27T00:00:00-06:00</lastmod>
+    <lastmod>2018-11-18T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -94,13 +71,13 @@
   
   <url>
     <loc>https://nimmpau.github.io/tags/</loc>
-    <lastmod>2017-09-12T00:00:00-05:00</lastmod>
+    <lastmod>2018-11-18T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nimmpau.github.io/tags/tristique/</loc>
-    <lastmod>2017-09-12T00:00:00-05:00</lastmod>
+    <loc>https://nimmpau.github.io/tags/tutorial/</loc>
+    <lastmod>2018-11-18T00:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   

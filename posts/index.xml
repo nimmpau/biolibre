@@ -6,45 +6,36 @@
     <description>Recent content in Posts on Biolibre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 18 Nov 2018 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://nimmpau.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Latest Post</title>
-      <link>https://nimmpau.github.io/posts/latest_post/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 -0500</pubDate>
+      <title>How to use the internet</title>
+      <link>https://nimmpau.github.io/posts/emacs_and_hugo_setup/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://nimmpau.github.io/posts/latest_post/</guid>
-      <description>Fusce sagittis, libero non molestie mollis, magna orci ultrices dolor, at vulputate neque nulla lacinia eros.Pellentesque dapibus suscipit ligula. Donec posuere augue in quam. Etiam vel tortor sodales tellus ultricies commodo. Suspendisse potenti. Aenean in sem ac leo mollis blandit. Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi. Phasellus lacus. Etiam laoreet quam sed arcu. Phasellus at dui in ligula mollis ultricies. Integer placerat tristique nisl. Praesent augue. Fusce commodo.</description>
+      <guid>https://nimmpau.github.io/posts/emacs_and_hugo_setup/</guid>
+      <description>lets talk bout somthin. like, Etiam lobortis velit sit amet turpis mollis pharetra. Proin nunc augue, accumsan pretium sapien vel, elementum eleifend metus. Proin consectetur neque a euismod commodo. Nunc bibendum vel felis vitae hendrerit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus quis iaculis metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor eleifend urna ac sagittis. Phasellus velit nunc, laoreet in augue id, tristique posuere purus.</description>
     </item>
     
     <item>
-      <title>Another Blog Post</title>
-      <link>https://nimmpau.github.io/posts/another_post/</link>
-      <pubDate>Mon, 27 Nov 2017 00:00:00 -0600</pubDate>
+      <title>News of the world</title>
+      <link>https://nimmpau.github.io/posts/some_news/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://nimmpau.github.io/posts/another_post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec hendrerit tempor tellus. Donec pretium posuere tellus. Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla posuere. Donec vitae dolor. Nullam tristique diam non turpis. Cras placerat accumsan nulla. Nullam rutrum. Nam vestibulum accumsan nisl. </description>
+      <guid>https://nimmpau.github.io/posts/some_news/</guid>
+      <description>well, there&amp;rsquo;s that whole mideast thing?</description>
     </item>
     
     <item>
-      <title>Yeats antother post</title>
-      <link>https://nimmpau.github.io/posts/yeats/</link>
-      <pubDate>Tue, 12 Sep 2017 00:00:00 -0500</pubDate>
+      <title>Hobbies, get one!</title>
+      <link>https://nimmpau.github.io/posts/some_hobbies/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://nimmpau.github.io/posts/yeats/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec hendrerit tempor tellus. Donec pretium posuere tellus. Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla posuere. Donec vitae dolor. Nullam tristique diam non turpis. Cras placerat accumsan nulla. Nullam rutrum. Nam vestibulum accumsan nisl.</description>
-    </item>
-    
-    <item>
-      <title>Some older news</title>
-      <link>https://nimmpau.github.io/posts/some_older_news/</link>
-      <pubDate>Sat, 05 Nov 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://nimmpau.github.io/posts/some_older_news/</guid>
-      <description>Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus. Pellentesque dapibus suscipit ligula. Donec posuere augue in quam. Etiam vel tortor sodales tellus ultricies commodo. Suspendisse potenti. Aenean in sem ac leo mollis blandit. Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi. Phasellus lacus. Etiam laoreet quam sed arcu. Phasellus at dui in ligula mollis ultricies. Integer placerat tristique nisl. Praesent augue.</description>
+      <guid>https://nimmpau.github.io/posts/some_hobbies/</guid>
+      <description>so many fun things! Maecenas condimentum neque lacus, quis finibus nulla auctor quis. Maecenas porttitor placerat finibus. Ut ac urna ut sem semper posuere quis non ante. Ut felis justo, auctor quis consequat nec, aliquam sit amet nunc. Nam tincidunt placerat metus. Phasellus nunc erat, aliquet ac vulputate eget, aliquet in diam. Proin viverra feugiat tincidunt. In aliquet ante tempor, hendrerit quam ac, auctor orci. Nulla facilisi. Sed rhoncus dui nibh, nec convallis neque ultricies quis.</description>
     </item>
     
   </channel>

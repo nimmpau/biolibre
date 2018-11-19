@@ -6,71 +6,44 @@
     <description>Recent content in Tags on Biolibre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Sep 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 18 Nov 2018 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://nimmpau.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Convallis</title>
-      <link>https://nimmpau.github.io/tags/convallis/</link>
-      <pubDate>Tue, 12 Sep 2017 00:00:00 -0500</pubDate>
+      <title>Emacs</title>
+      <link>https://nimmpau.github.io/tags/emacs/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://nimmpau.github.io/tags/convallis/</guid>
+      <guid>https://nimmpau.github.io/tags/emacs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Donec</title>
-      <link>https://nimmpau.github.io/tags/donec/</link>
-      <pubDate>Mon, 27 Nov 2017 00:00:00 -0600</pubDate>
+      <title>Hugo</title>
+      <link>https://nimmpau.github.io/tags/hugo/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://nimmpau.github.io/tags/donec/</guid>
+      <guid>https://nimmpau.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Magna</title>
-      <link>https://nimmpau.github.io/tags/magna/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 -0500</pubDate>
+      <title>News</title>
+      <link>https://nimmpau.github.io/tags/news/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://nimmpau.github.io/tags/magna/</guid>
+      <guid>https://nimmpau.github.io/tags/news/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nascetur</title>
-      <link>https://nimmpau.github.io/tags/nascetur/</link>
-      <pubDate>Tue, 12 Sep 2017 00:00:00 -0500</pubDate>
+      <title>Tutorial</title>
+      <link>https://nimmpau.github.io/tags/tutorial/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://nimmpau.github.io/tags/nascetur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neque</title>
-      <link>https://nimmpau.github.io/tags/neque/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://nimmpau.github.io/tags/neque/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Proin</title>
-      <link>https://nimmpau.github.io/tags/proin/</link>
-      <pubDate>Mon, 27 Nov 2017 00:00:00 -0600</pubDate>
-      
-      <guid>https://nimmpau.github.io/tags/proin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tristique</title>
-      <link>https://nimmpau.github.io/tags/tristique/</link>
-      <pubDate>Tue, 12 Sep 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://nimmpau.github.io/tags/tristique/</guid>
+      <guid>https://nimmpau.github.io/tags/tutorial/</guid>
       <description></description>
     </item>
     
