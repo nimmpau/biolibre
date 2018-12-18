@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Other Things on Biolibre</title>
-    <link>https://nimmpau.github.io/categories/other-things/</link>
-    <description>Recent content in Other Things on Biolibre</description>
+    <title>Jam on Biolibre</title>
+    <link>https://nimmpau.github.io/tags/jam/</link>
+    <description>Recent content in Jam on Biolibre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Dec 2018 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://nimmpau.github.io/categories/other-things/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nimmpau.github.io/tags/jam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,15 +27,6 @@
       
       <guid>https://nimmpau.github.io/posts/some_news/</guid>
       <description>well, there&amp;rsquo;s that whole mideast thing?</description>
-    </item>
-    
-    <item>
-      <title>Hobbies, get one!</title>
-      <link>https://nimmpau.github.io/posts/some_hobbies/</link>
-      <pubDate>Thu, 18 Oct 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://nimmpau.github.io/posts/some_hobbies/</guid>
-      <description>so many fun things! Maecenas condimentum neque lacus, quis finibus nulla auctor quis. Maecenas porttitor placerat finibus. Ut ac urna ut sem semper posuere quis non ante. Ut felis justo, auctor quis consequat nec, aliquam sit amet nunc. Nam tincidunt placerat metus. Phasellus nunc erat, aliquet ac vulputate eget, aliquet in diam. Proin viverra feugiat tincidunt. In aliquet ante tempor, hendrerit quam ac, auctor orci. Nulla facilisi. Sed rhoncus dui nibh, nec convallis neque ultricies quis.</description>
     </item>
     
   </channel>

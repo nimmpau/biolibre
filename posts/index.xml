@@ -6,10 +6,28 @@
     <description>Recent content in Posts on Biolibre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Nov 2018 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 17 Dec 2018 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://nimmpau.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Carnaby Street</title>
+      <link>https://nimmpau.github.io/posts/carnaby_street/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://nimmpau.github.io/posts/carnaby_street/</guid>
+      <description>This is famous street in London immortalized in the b-side of of a single by the jam. Sed rhoncus dui nibh, nec convallis neque ultricies quis. Donec sed nisi diam. Curabitur sit amet mauris gravida, convallis elit sed, volutpat augue. Cras eu turpis ultrices, maximus enim quis, congue purus. Nullam ac nisi porttitor, interdum turpis eu, rutrum justo.</description>
+    </item>
+    
+    <item>
+      <title>How to enjoy your use of the internet</title>
+      <link>https://nimmpau.github.io/posts/enjoyment/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://nimmpau.github.io/posts/enjoyment/</guid>
+      <description>Etiam lobortis velit sit amet turpis mollis pharetra. Proin nunc augue, accumsan pretium sapien vel, elementum eleifend metus. Proin consectetur neque a euismod commodo. Nunc bibendum vel felis vitae hendrerit.</description>
+    </item>
     
     <item>
       <title>How to use the internet</title>
