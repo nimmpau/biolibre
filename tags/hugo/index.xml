@@ -20,5 +20,14 @@
       <description>Etiam lobortis velit sit amet turpis mollis pharetra. Proin nunc augue, accumsan pretium sapien vel, elementum eleifend metus. Proin consectetur neque a euismod commodo. Nunc bibendum vel felis vitae hendrerit.</description>
     </item>
     
+    <item>
+      <title>How to use the internet</title>
+      <link>https://nimmpau.github.io/posts/emacs_and_hugo_setup/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://nimmpau.github.io/posts/emacs_and_hugo_setup/</guid>
+      <description>lets talk bout somthin. like, Etiam lobortis velit sit amet turpis mollis pharetra. Proin nunc augue, accumsan pretium sapien vel, elementum eleifend metus. Proin consectetur neque a euismod commodo. Nunc bibendum vel felis vitae hendrerit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus quis iaculis metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor eleifend urna ac sagittis. Phasellus velit nunc, laoreet in augue id, tristique posuere purus.</description>
+    </item>
+    
   </channel>
 </rss>
