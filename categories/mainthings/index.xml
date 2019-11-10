@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mainthings on Biolibre</title>
+    <title>mainthings on Biolibre</title>
     <link>https://nimmpau.github.io/categories/mainthings/</link>
-    <description>Recent content in Mainthings on Biolibre</description>
+    <description>Recent content in mainthings on Biolibre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 18 Jan 2019 00:00:00 -0600</lastBuildDate>
@@ -35,7 +35,7 @@
       <pubDate>Sun, 18 Nov 2018 00:00:00 -0600</pubDate>
       
       <guid>https://nimmpau.github.io/posts/emacs_and_hugo_setup/</guid>
-      <description>lets talk bout somthin. like, Etiam lobortis velit sit amet turpis mollis pharetra. Proin nunc augue, accumsan pretium sapien vel, elementum eleifend metus. Proin consectetur neque a euismod commodo. Nunc bibendum vel felis vitae hendrerit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus quis iaculis metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor eleifend urna ac sagittis. Phasellus velit nunc, laoreet in augue id, tristique posuere purus.</description>
+      <description>Blah blah blah &amp;hellip; lets talk bout somthin. like, Etiam lobortis velit sit amet turpis mollis pharetra. Proin nunc augue, accumsan pretium sapien vel, elementum eleifend metus. Proin consectetur neque a euismod commodo. Nunc bibendum vel felis vitae hendrerit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus quis iaculis metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor eleifend urna ac sagittis. Phasellus velit nunc, laoreet in augue id, tristique posuere purus.</description>
     </item>
     
   </channel>

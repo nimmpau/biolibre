@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Other Things on Biolibre</title>
+    <title>other-things on Biolibre</title>
     <link>https://nimmpau.github.io/categories/other-things/</link>
-    <description>Recent content in Other Things on Biolibre</description>
+    <description>Recent content in other-things on Biolibre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Jan 2019 00:00:00 -0600</lastBuildDate>
@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>Hobbies, get one!</title>
+      <title>Hobbies, get one! Blah Blah Blah!</title>
       <link>https://nimmpau.github.io/posts/some_hobbies/</link>
       <pubDate>Thu, 18 Oct 2018 00:00:00 -0500</pubDate>
       
