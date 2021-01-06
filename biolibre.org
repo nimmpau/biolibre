@@ -1,0 +1,54 @@
+#+HUGO_BASE_DIR: ./
+* Pages
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: ./
+  :END:
+* Posts
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: posts
+  :END:
+** emacs,hugo things                                            :@mainthings:
+*** How to use the internet                             :emacs:hugo:tutorial:
+    :PROPERTIES:
+    :EXPORT_FILE_NAME: emacs_and_hugo_setup
+    :EXPORT_DATE: 2018-11-18
+    :END:
+ Blah blah blah ... lets talk bout somthin. like, Etiam lobortis velit sit amet turpis mollis pharetra. Proin nunc augue, accumsan pretium sapien vel, elementum eleifend metus. Proin consectetur neque a euismod commodo. Nunc bibendum vel felis vitae hendrerit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus quis iaculis metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor eleifend urna ac sagittis. Phasellus velit nunc, laoreet in augue id, tristique posuere purus. Pellentesque sodales facilisis vulputate. Sed scelerisque, diam non sodales tempus, metus orci blandit lorem, ut aliquam nunc nisl ut arcu. Nulla sit amet neque vitae neque lobortis cursus ut ac ante. Nunc sit amet risus tristique, convallis eros malesuada, pulvinar nulla. Aenean nec mattis sapien. Mauris ultrices justo eu sem congue, quis vulputate sem semper. 
+*** How to enjoy your use of the internet               :tutorial:emacs:hugo:
+    :PROPERTIES:
+    :EXPORT_FILE_NAME: enjoyment 
+    :EXPORT_DATE: 2018-12-17
+    :END:
+Etiam lobortis velit sit amet turpis mollis pharetra. Proin nunc augue, accumsan pretium sapien vel, elementum eleifend metus. Proin consectetur neque a euismod commodo. Nunc bibendum vel felis vitae hendrerit. 
+*** Tales from the Riverbank                                            :jam:
+    :PROPERTIES:
+    :EXPORT_FILE_NAME: tales_from_the_riverbank
+    :EXPORT_DATE: 2019-01-18
+    :END:
+Something about pastel fields where we met when we were young, this is a tale from the water meadow, tryin' to bring some something into your heart. It's mixed with happiness is mixed with fear...
+** other things                                               :@other_things:
+*** Private Hell
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: private_hell 
+   :EXPORT_DATE: 2019-01-17
+   :END:
+Think of Edward who's still in college, you send him letters which he doesn't acknowledge! BUT! He don't CAAARRREE!
+*** News of the world NEEWWWSSSS OF THE WURLD!                     :news:jam:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: some_news 
+   :EXPORT_DATE: 2018-11-15
+   :END:
+well, there's that whole mideast thing?
+*** Hobbies, get one! Blah Blah Blah!                              :tutorial:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: some_hobbies 
+   :EXPORT_DATE: 2018-10-18
+   :END:
+so many fun things!
+Maecenas condimentum neque lacus, quis finibus nulla auctor quis. Maecenas porttitor placerat finibus. Ut ac urna ut sem semper posuere quis non ante. Ut felis justo, auctor quis consequat nec, aliquam sit amet nunc. Nam tincidunt placerat metus. Phasellus nunc erat, aliquet ac vulputate eget, aliquet in diam. Proin viverra feugiat tincidunt. In aliquet ante tempor, hendrerit quam ac, auctor orci. Nulla facilisi. Sed rhoncus dui nibh, nec convallis neque ultricies quis. Donec sed nisi diam. Curabitur sit amet mauris gravida, convallis elit sed, volutpat augue. Cras eu turpis ultrices, maximus enim quis, congue purus. Nullam ac nisi porttitor, interdum turpis eu, rutrum justo. Morbi ultrices eu mauris eu aliquamy. Curabitur risus nunc, aliquam condimentum urna a, vulputate tempor felis. 
+*** Carnaby Street                                                      :jam:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: carnaby_street 
+   :EXPORT_DATE: 2018-12-17
+   :END:
+   This is famous street in London immortalized in the b-side of of a single by the jam. Sed rhoncus dui nibh, nec convallis neque ultricies quis. Donec sed nisi diam. Curabitur sit amet mauris gravida, convallis elit sed, volutpat augue. Cras eu turpis ultrices, maximus enim quis, congue purus. Nullam ac nisi porttitor, interdum turpis eu, rutrum justo. 
